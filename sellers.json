@@ -1706,6 +1706,12 @@
       "name": "Yolo Games",
       "domain": "https://yologames.io/",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3199512,
+      "name": "Nexverse",
+      "domain": "nexverse.ai",
+      "seller_type": "INTERMEDIARY"
     }
   ]
 }
