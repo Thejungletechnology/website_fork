@@ -1712,6 +1712,18 @@
       "name": "Nexverse",
       "domain": "nexverse.ai",
       "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199490,
+      "name": "Redmob",
+      "domain": "redmob.io",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199494,
+      "name": "Blasto",
+      "domain": "Blasto.ai",
+      "seller_type": "INTERMEDIARY"
     }
   ]
 }
