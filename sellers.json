@@ -1724,6 +1724,318 @@
       "name": "Blasto",
       "domain": "Blasto.ai",
       "seller_type": "INTERMEDIARY"
-    }
+    },
+    {
+    "seller_id": "3199476",
+    "name": "vdo.ai",
+    "domain": "vdo.ai",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199478",
+    "name": "Adapex",
+    "domain": "adapex.io",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199484",
+    "name": "Bidex",
+    "domain": "bidex.cn",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199486",
+    "name": "Mobgeek",
+    "domain": "admobgeek.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199488",
+    "name": "Ruckus factory",
+    "domain": "ruckusfactory.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199490",
+    "name": "Redmob",
+    "domain": "redmob.io",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199494",
+    "name": "Blasto",
+    "domain": "blasto.ai",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199498",
+    "name": "Adgebra",
+    "domain": "adgebra.co",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199502",
+    "name": "Hyperbrainz",
+    "domain": "hyperbrainz.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199508",
+    "name": "Magicbid",
+    "domain": "magicbid.ai",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199516",
+    "name": "Monetize Matrix",
+    "domain": "monetizematrix.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199518",
+    "name": "Gitberry",
+    "domain": "gitberry.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199520",
+    "name": "BidtoX",
+    "domain": "bidtox.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199524",
+    "name": "Brand Rise",
+    "domain": "brandrise.net",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199526",
+    "name": "Anypoint",
+    "domain": "anypointmedia.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199530",
+    "name": "E-Planning",
+    "domain": "e-planning.net",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199532",
+    "name": "MetaX",
+    "domain": "metaxsoft.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199534",
+    "name": "fithub",
+    "domain": "fithub-world.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199538",
+    "name": "Bidinfluence",
+    "domain": "bidinfluence.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199540",
+    "name": "Adipolo",
+    "domain": "adipolo.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199544",
+    "name": "Relodev",
+    "domain": "relodev.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199548",
+    "name": "Cas.ai",
+    "domain": "cas.ai",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199552",
+    "name": "Iron Click",
+    "domain": "ironclick.network",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "161051",
+    "name": "Azur Games 1",
+    "domain": "aigames.ae",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161052",
+    "name": "Azur Games 2",
+    "domain": "aigames.ae",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161074",
+    "name": "Aka Messenger",
+    "domain": "akamessenger.org",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161050",
+    "name": "Apps studio",
+    "domain": "apps.com.tr",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161088",
+    "name": "Boombit",
+    "domain": "boombit.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161047",
+    "name": "BraveStars",
+    "domain": "bravestars.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161058",
+    "name": "ChennaiGames",
+    "domain": "chennaigames.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161064",
+    "name": "HM GAMES PTY LTD",
+    "domain": "hmgames.au",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161055",
+    "name": "kryss App",
+    "domain": "kryss.app",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161095",
+    "name": "Pixeland",
+    "domain": "pxlnd.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161053",
+    "name": "Rotatelab",
+    "domain": "rotatelab.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161063",
+    "name": "Soft Towel Games",
+    "domain": "softtowelgames.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161093",
+    "name": "Unico Studio",
+    "domain": "unicostudio.co",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161057",
+    "name": "Veraxen",
+    "domain": "veraxen.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161059",
+    "name": "Peax",
+    "domain": "vuvy.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161065",
+    "name": "Bridge Base",
+    "domain": "bridgebase.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161062",
+    "name": "Coderays",
+    "domain": "coderays.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161056",
+    "name": "My games",
+    "domain": "deuscraft.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161092",
+    "name": "Digitalmoka",
+    "domain": "digitalmoka.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161090",
+    "name": "Etvwin",
+    "domain": "etvwin.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161096",
+    "name": "Kwalee",
+    "domain": "kwalee.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161048",
+    "name": "Leapgames",
+    "domain": "leapgames.mobi",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161089",
+    "name": "Ludia",
+    "domain": "ludia.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161049",
+    "name": "Rocketfuel",
+    "domain": "rocketfuelmembers.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161066",
+    "name": "Game Storm",
+    "domain": "thegamestormstudios.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161061",
+    "name": "Ysocorp",
+    "domain": "ysocorp.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161069",
+    "name": "Yupptv",
+    "domain": "yupptv.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161094",
+    "name": "Gaminators",
+    "domain": "y89219098.app-ads-txt.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161070",
+    "name": "Zephyr Mobile",
+    "domain": "zephyrmobile.com",
+    "seller_type": "PUBLISHER"
+  }
   ]
 }
