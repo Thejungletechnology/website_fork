@@ -1968,7 +1968,7 @@
   {
     "seller_id": "161056",
     "name": "My games",
-    "domain": "deuscraft.com",
+    "domain": "my.games",
     "seller_type": "PUBLISHER"
   },
   {
@@ -2191,6 +2191,240 @@
     "seller_id": "3199656",
     "name": "Boombit",
     "domain": "boombit.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199660",
+    "name": "Between X",
+    "domain": "betweenx.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199664",
+    "name": "videoheroes",
+    "domain": "videoheroes.tv",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199668",
+    "name": "Phonepe",
+    "domain": "phonepe.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199672",
+    "name": "Zee5",
+    "domain": "zee5.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199676",
+    "name": "Tarang",
+    "domain": "tarangplus.in",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "3199680",
+    "name": "LevelX",
+    "domain": "levelx.tv",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199684",
+    "name": "Okiim Digital",
+    "domain": "okiimdigital.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199688",
+    "name": "AcunX",
+    "domain": "acunexus.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199692",
+    "name": "DigiAd",
+    "domain": "digiadglobal.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199696",
+    "name": "Eskimi",
+    "domain": "eskimi.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199698",
+    "name": "Apptimism",
+    "domain": "apptimism.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199702",
+    "name": "Vosaco",
+    "domain": "vosacosg.com",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "3199704",
+    "name": "Revealon",
+    "domain": "revealon.media",
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "161098",
+    "name": "Tapnation",
+    "domain": "tap-nation.io",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161099",
+    "name": "Wolves Interactive",
+    "domain": "phoenix-dma.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161100",
+    "name": "Mnogoapps",
+    "domain": "mnogoteams.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161101",
+    "name": "infinitygames",
+    "domain": "infinitygames.io",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161102",
+    "name": "Artbees solution",
+    "domain": "vehicleinformationguidefor.blogspot.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161104",
+    "name": "Exoty",
+    "domain": "exoty.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161105",
+    "name": "Saygames",
+    "domain": "say.games",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161106",
+    "name": "amazon mxplayer",
+    "domain": "apps.mxplayer.in",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161108",
+    "name": "Hypercell",
+    "domain": "hypercell.games",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161109",
+    "name": "cscmobi",
+    "domain": "cscmobi.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161110",
+    "name": "Cleverside",
+    "domain": "www.cleverside.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161112",
+    "name": "Funcell",
+    "domain": "funcellgames.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161114",
+    "name": "funcraft",
+    "domain": "www.funcraft.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161118",
+    "name": "mtag",
+    "domain": "mysterytag.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161121",
+    "name": "CSC mobi",
+    "domain": "cscmobi.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161123",
+    "name": "FMPROJECT LIMITED",
+    "domain": "profittechnics.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161124",
+    "name": "Peax - happydigital",
+    "domain": "allhappyapps.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161125",
+    "name": "vgames",
+    "domain": "vgamestd.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161127",
+    "name": "skylink",
+    "domain": "www.skylinkstudio.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161128",
+    "name": "Gamee",
+    "domain": "gameestudio.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161129",
+    "name": "lihuhugames",
+    "domain": "matchgames.io",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161130",
+    "name": "1studio",
+    "domain": "theonegamestudio.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161132",
+    "name": "Games24",
+    "domain": "www.my11circle.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161133",
+    "name": "Hitapps",
+    "domain": "hitapps.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161134",
+    "name": "FM-games",
+    "domain": "www.fiogonia.com",
+    "seller_type": "PUBLISHER"
+  },
+  {
+    "seller_id": "161137",
+    "name": "Dramatv",
+    "domain": "drama.tv",
     "seller_type": "PUBLISHER"
   }
   ]
