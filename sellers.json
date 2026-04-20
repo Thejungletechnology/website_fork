@@ -2146,6 +2146,12 @@
     "seller_type": "INTERMEDIARY"
   },
   {
+    "seller_id": "3199628",
+    "name": "Zynga",
+    "domain": "https://www.zynga.com/",
+    "seller_type": "PUBLISHER"
+  },
+  {
     "seller_id": "3199632",
     "name": "ADVIDDO",
     "domain": "adviddo.com",
