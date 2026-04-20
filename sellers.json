@@ -28,6 +28,12 @@
       "seller_type": "Publisher"
     },
     {
+      "seller_id": 160704,
+      "name": "Learnings.ai",
+      "domain": "https://learnings.ai/",
+      "seller_type": "PUBLISHER"
+    },
+    {
       "seller_id": 160703,
       "name": "Arcadian Labs",
       "domain": "https://arcadianlab.com/",
